@@ -13,6 +13,7 @@ const MainPanel = () =>{
       <br/>
       <div className="jumbotron jumbotron-fluid py-1">
         <div className='container text-center py-4'>
+          <h1>Welcome </h1>
                     Login in as: <strong className="text-info">{user.email}</strong>
       </div>
       </div>
